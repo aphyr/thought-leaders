@@ -22,7 +22,7 @@ Fork this repo and send a pull request. Myself and/or other approved TLs will re
 * [Rick Branson](https://twitter.com/rbranson) - Photographs.  
 * [Jeff Hodges](https://twitter.com/jmhodges) - Memcache tuning, Ginuwine.  
 * [Werner Vogels](https://twitter.com/) - FunConf, Clouds.  
-* [Artur Bergman](https://twitter.com/crucially) - SSDs, Linux (specifically `fsync`). 
+* [Artur Bergman](https://twitter.com/crucially) - SSDs, `fsync`. 
 * [Joe Stump](https://twitter.com/joestump) - RVs. 
 * [Ted Nyman](https://twitter.com/tnm) - Ruby, Twitter. 
 * [Ben Horowitz](http://bhorowitz.com/) - ODB. 
